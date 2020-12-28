@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Dallas 👋
+I sometimes write things [here](https://dallasc.github.io).
+
+My latest articles: 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **DallasC/dallasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
