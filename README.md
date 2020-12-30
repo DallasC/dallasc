@@ -3,6 +3,8 @@ I sometimes write things [here](https://dallasc.github.io).
 
 My latest articles: 
 <!-- BLOG-POST-LIST:START -->
+- [IPFS + ENS Integration](dallasc.github.io/ipfs-ens-integration/)
+- [Personal Website](dallasc.github.io/personal-site/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
