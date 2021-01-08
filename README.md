@@ -3,6 +3,7 @@ I sometimes write things [here](https://dallasc.github.io).
 
 My latest articles: 
 <!-- BLOG-POST-LIST:START -->
+- [GMTK Game Jam](dallasc.github.io/gmtk-gamejam/)
 - [IPFS + ENS Integration](dallasc.github.io/ipfs-ens-integration/)
 - [Personal Website](dallasc.github.io/personal-site/)
 <!-- BLOG-POST-LIST:END -->
